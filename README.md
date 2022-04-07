@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
+[![Solved.ac
+qotktpdy](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
