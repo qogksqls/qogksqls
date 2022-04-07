@@ -1,6 +1,7 @@
+# qogksqls
+
 ### Hi there 👋
 
-<!--
 **qogksqls/qogksqls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![Top Langs](https://github.com/qogksqls/TIL?username=qogksqls&layout=compact)](https://github.com/qogksqls/TIL)
 <hr>
 
