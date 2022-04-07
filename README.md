@@ -21,4 +21,5 @@ Here are some ideas to get you started:
   src="https://img.shields.io/badge/[아이콘 이름]-[배경색]?style=flat-square&logo=[내용]&logoColor=white"
 />
 <hr>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qotktpdy)](https://solved.ac/qotktpdy/)
