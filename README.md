@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
 
-[![Solved.ac qotktpdy](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joori0709)](https://solved.ac/qotktpdy/)
