@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=👋welcome&fontSize=90&desc=qogksqls's%20github%20profile&descAlign=65&descAlignY=35&animation=fadeIn)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 <div align="center">
   
   ## ⚒️Tech Stack⚒️
