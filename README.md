@@ -2,7 +2,8 @@
 
 
 <div align="center">
-  ⚒️Tech Stack⚒️
+  
+  ## ⚒️Tech Stack⚒️
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -12,15 +13,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
   
-  💡Used Once
+  ## 💡Used Once
   
   <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   
-  💻 Using
+  ## 💻 Using
   
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qotktpdy)](https://solved.ac/qotktpdy/)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qotktpdy)](https://solved.ac/qotktpdy/)
 
 </div>
